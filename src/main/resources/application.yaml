@@ -6,7 +6,7 @@ spring:
     driver-class-name: org.postgresql.Driver
     url: jdbc:postgresql://localhost:5432/restful
     username: postgres
-    password: pll
+    password: stayhydrated
   # JPA & Hibernate
   jpa:
     hibernate:
